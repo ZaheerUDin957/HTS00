@@ -1,0 +1,11 @@
+streamlit
+toml
+python-dotenv
+PyPDF
+PyMuPDF
+docx2txt
+PyMuPDF
+pip install langchain_community
+pip install --upgrade langchain
+pip install streamlit fitz
+pip install transformers
